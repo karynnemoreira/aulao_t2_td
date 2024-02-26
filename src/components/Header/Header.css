@@ -1,0 +1,39 @@
+.tituloHeader{
+    color: green;
+}
+
+header{
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: solid tomato;
+}
+
+img{
+    width: 7%;
+}
+
+nav{
+    width: 20%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+/* form{
+    border: solid blue;
+     display: flex; 
+    justify-content: space-evenly; 
+}
+
+label{
+    font-size: 1.3rem;
+} */
